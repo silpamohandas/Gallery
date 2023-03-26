@@ -1,0 +1,32 @@
+.c{
+    width: 30%;
+    height: 450px;
+    background-color: rgba(10, 78, 226, 0.774);
+    color: white;
+    border: white 2px solid;
+    float: left;
+    padding: 20px;
+}
+.d{
+    width: 30%;
+    height: 450px;
+    background-color:rgba(10, 78, 226, 0.774);
+    color: white;
+    color: white;
+    border: white 2px solid;
+    float: left;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: rgb(221, 192, 28);
+}
+img{
+    width: 60%;
+    height: 200px;
+    margin-left: 60px;
+    margin-right: 10px;
+}
+h5{
+    color: rgb(215, 247, 37);
+}
